@@ -8,13 +8,13 @@ You are a Data Scientist at Kalbe Nutritionals and are currently getting a new p
 
 ■ Predictions must be made daily.
 
-##From the marketing team, you are asked to create a customer cluster/segment based on several criteria.
+## From the marketing team, you are asked to create a customer cluster/segment based on several criteria.
 
 ■ The aim of this project is to create a customer segment.
 
 ■ This customer segment will later be used by the marketing team to provide personalized promotion and sales treatment.
 
-##The tools that you will use in this project are:
+## The tools that you will use in this project are:
 
 ■ Python
 
