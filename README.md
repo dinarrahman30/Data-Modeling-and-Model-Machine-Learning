@@ -1,4 +1,4 @@
-# Kalbe Nutritions Data Modeling and Model Machine Learning
+# Kalbe Nutritions Data Scientist Data Modeling and Model Machine Learning
 
 You are a Data Scientist at Kalbe Nutritionals and are currently getting a new project from the inventory team and the marketing team.
 
