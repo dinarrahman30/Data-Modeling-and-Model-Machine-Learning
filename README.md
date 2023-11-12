@@ -30,3 +30,4 @@ You are a Data Scientist at Kalbe Nutritionals and are currently getting a new p
 
 ![Dashboard 1](https://github.com/dinarrahman30/Data-Modeling-and-Model-Machine-Learning/assets/68122380/ddd223ef-4367-478c-a11a-9c7294613555)
 
+Link Presentations: ![Youtube](https://youtu.be/ILocDwiv68s?si=YXSX8ZXwkx_jXkTY)
